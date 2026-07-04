@@ -8,6 +8,25 @@ CSV, chèn bản dịch ngược vào APK và ký lại để cài lên máy.
 > tải hợp pháp. Không phân phối lại APK đã sửa — hãy chia sẻ *bản vá/file
 > dịch* thay vì file game.
 
+## Trạng thái dự án Magic Survival (v0.99)
+
+Đã chạy tool trên APK thật và kiểm chứng toàn bộ pipeline — kết quả trong
+thư mục [`ms_work/`](ms_work/):
+
+- Game chứa **58 TextAsset** trong `assets/bin/Data/data.unity3d`, gồm bộ
+  từ điển cho 9 ngôn ngữ (`eng_`, `kr_`, `jp_`, `cn_`, `tw_`, `de_`,
+  `spa_`, `rus_`, `pt_`).
+- **Cần dịch 6 file** (~2.900 dòng): `eng_Dictionary_Ability / Class /
+  Explain / MagicCom / Name / Synergy` trong `ms_work/translated/`.
+  Dịch đè lên bản tiếng Anh → trong game chọn English sẽ hiện tiếng Việt.
+- Định dạng file: bảng **CSV** (phân cách bằng dấu phẩy), dòng đầu là tên
+  cột tiếng Hàn (giữ nguyên), cột đầu là số thứ tự (giữ nguyên). Text có
+  chứa dấu phẩy được bọc trong ngoặc kép `"..."` — giữ đúng quy tắc này.
+- **Font**: game nhúng Noto Sans (JP/SC/Display) đều có đủ glyph tiếng
+  Việt → không cần vá font.
+- Đã test `apply`: APK vá giữ nguyên 24.041 object, chuỗi dịch hiển thị
+  đúng trong bundle.
+
 ## Nguyên lý
 
 Magic Survival làm bằng **Unity**. Văn bản hiển thị (tên phép, mô tả, UI…)

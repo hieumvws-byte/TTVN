@@ -1,0 +1,469 @@
+{
+  "apk": "magicsurvival.apk",
+  "entries": [
+    {
+      "file": "kr_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2797,
+      "name": "kr_Dictionary_Ability",
+      "binary": false,
+      "sha1": "ad2b1482395f31161c40f18321170a6c721b16e1"
+    },
+    {
+      "file": "spa_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2798,
+      "name": "spa_Dictionary_Name",
+      "binary": false,
+      "sha1": "374882eb4735a8c97639c2b5b669ab05d0d08945"
+    },
+    {
+      "file": "rus_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2799,
+      "name": "rus_Dictionary_Class",
+      "binary": false,
+      "sha1": "06165f27c155e2d751ca48a8a927d3de1c78c05c"
+    },
+    {
+      "file": "tw_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2800,
+      "name": "tw_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "c61da5d55e289db0210442b71463ac83d357dc2a"
+    },
+    {
+      "file": "tw_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2801,
+      "name": "tw_Dictionary_Explain",
+      "binary": false,
+      "sha1": "d167b9af28aeac3e8dffbff45f102bd338c1863a"
+    },
+    {
+      "file": "tw_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2802,
+      "name": "tw_Dictionary_Class",
+      "binary": false,
+      "sha1": "728bc8271a20e75fad8a73ad6ad759f77fcec75f"
+    },
+    {
+      "file": "cn_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2804,
+      "name": "cn_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "4ece56522fc4b4d93fa38e78b8e2d6e65bf966aa"
+    },
+    {
+      "file": "pt_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2805,
+      "name": "pt_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "e2a299fe6799fb15fa1c4cffceed37481722d415"
+    },
+    {
+      "file": "tw_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2806,
+      "name": "tw_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "8807792a1c98be9b074225ca493b234bcbf46c78"
+    },
+    {
+      "file": "jp_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2807,
+      "name": "jp_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "46e8d6e3a29545775d0b1b13507c0e3fa825c356"
+    },
+    {
+      "file": "spa_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2808,
+      "name": "spa_Dictionary_Class",
+      "binary": false,
+      "sha1": "c29a1c412f0a06d16e7249510c90fdf4d3bc406a"
+    },
+    {
+      "file": "spa_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2809,
+      "name": "spa_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "ad21f795dcb47cf7263040b2604eb0c7f880edb9"
+    },
+    {
+      "file": "rus_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2810,
+      "name": "rus_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "5f5dee7a30ba6d63cf01567be72aba41ab677a55"
+    },
+    {
+      "file": "cn_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2811,
+      "name": "cn_Dictionary_Ability",
+      "binary": false,
+      "sha1": "ed502a6abba6cd3ee03ed1531addac4e110fc7d7"
+    },
+    {
+      "file": "kr_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2812,
+      "name": "kr_Dictionary_Class",
+      "binary": false,
+      "sha1": "b6390ce93e0a4fbb67f208f1d8999c8d07eea781"
+    },
+    {
+      "file": "tw_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2813,
+      "name": "tw_Dictionary_Ability",
+      "binary": false,
+      "sha1": "6b5d7985a778a9caa0d8162a9527dd3b8d16692a"
+    },
+    {
+      "file": "rus_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2814,
+      "name": "rus_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "540c89c08c9ae4f37785bd5f974624633a41dee2"
+    },
+    {
+      "file": "spa_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2815,
+      "name": "spa_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "17e5fb7d5dfc3542072004fbd1575ef319f65019"
+    },
+    {
+      "file": "kr_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2816,
+      "name": "kr_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "407b8f394aaa8405e2bdd5b6adc0faacb89903d1"
+    },
+    {
+      "file": "spa_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2817,
+      "name": "spa_Dictionary_Explain",
+      "binary": false,
+      "sha1": "5d728aaa149ec7575288bc4b8b51a98ed09ccb1a"
+    },
+    {
+      "file": "rus_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2818,
+      "name": "rus_Dictionary_Explain",
+      "binary": false,
+      "sha1": "2d8cfcd452a7f62f4689541093ec45981fbda545"
+    },
+    {
+      "file": "jp_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2819,
+      "name": "jp_Dictionary_Explain",
+      "binary": false,
+      "sha1": "22567c553d08797fa6249f2fa75a958f844574fa"
+    },
+    {
+      "file": "jp_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2820,
+      "name": "jp_Dictionary_Name",
+      "binary": false,
+      "sha1": "a20937172bef86bee6003cb7bcf8e51b794d4ee5"
+    },
+    {
+      "file": "Dictionary_UnitStat.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2821,
+      "name": "Dictionary_UnitStat",
+      "binary": false,
+      "sha1": "8768fd21643036ca80e16ffd2f13131922c10729"
+    },
+    {
+      "file": "eng_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2822,
+      "name": "eng_Dictionary_Name",
+      "binary": false,
+      "sha1": "33cdaf218300ee02ff2898320b53bc2e6148c56d"
+    },
+    {
+      "file": "eng_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2823,
+      "name": "eng_Dictionary_Class",
+      "binary": false,
+      "sha1": "d398c2acc5f41de9f8afb530fd5b55a1e2ee21a4"
+    },
+    {
+      "file": "de_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2824,
+      "name": "de_Dictionary_Explain",
+      "binary": false,
+      "sha1": "67664db8f31e152ed224581a6ade00e36aa09a77"
+    },
+    {
+      "file": "cn_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2825,
+      "name": "cn_Dictionary_Class",
+      "binary": false,
+      "sha1": "a95cedd4665f05848ef8ae668b2850d7a86ea0bb"
+    },
+    {
+      "file": "IAPProductCatalog.json",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2826,
+      "name": "IAPProductCatalog",
+      "binary": false,
+      "sha1": "c6398110bf9232a812bfd358914fc2309acd796b"
+    },
+    {
+      "file": "de_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2827,
+      "name": "de_Dictionary_Name",
+      "binary": false,
+      "sha1": "91f8024e6a5886f4e1a5e24e9ed0d7ea938e5c1b"
+    },
+    {
+      "file": "pt_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2828,
+      "name": "pt_Dictionary_Ability",
+      "binary": false,
+      "sha1": "97b6d6a6e1280de7d2e9791a15d402f2abf1a385"
+    },
+    {
+      "file": "rus_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2829,
+      "name": "rus_Dictionary_Ability",
+      "binary": false,
+      "sha1": "d2b7741bbdc7ca59d2143ec9d5b62192d39cefe4"
+    },
+    {
+      "file": "kr_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2830,
+      "name": "kr_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "0b672be48ea1028ae9ffbb1c4dcdead1064acf3f"
+    },
+    {
+      "file": "Dictionary_AllStat.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2831,
+      "name": "Dictionary_AllStat",
+      "binary": false,
+      "sha1": "33ea71b6da7163d6df4580156b82e0545b4a95fd"
+    },
+    {
+      "file": "pt_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2832,
+      "name": "pt_Dictionary_Name",
+      "binary": false,
+      "sha1": "40a1b0900c889bb2bf6148993dafde4243af7cdf"
+    },
+    {
+      "file": "cn_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2833,
+      "name": "cn_Dictionary_Explain",
+      "binary": false,
+      "sha1": "6f0eb3a2a6a0511f89bd8f0be20c8a81e6704dbe"
+    },
+    {
+      "file": "eng_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2834,
+      "name": "eng_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "af7276b926721bb468a280dbae083802157f4f3c"
+    },
+    {
+      "file": "de_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2835,
+      "name": "de_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "01c11fae0b1f10afb5c250903f41685200310dc9"
+    },
+    {
+      "file": "jp_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2836,
+      "name": "jp_Dictionary_Ability",
+      "binary": false,
+      "sha1": "8805443e0611088ef4b0de15adc917a98d701ac0"
+    },
+    {
+      "file": "de_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2837,
+      "name": "de_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "0e44f96ccaab4b7521cb562fa4a7567238e3192f"
+    },
+    {
+      "file": "pt_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2838,
+      "name": "pt_Dictionary_Class",
+      "binary": false,
+      "sha1": "ffbdece49d9724e1db12e1f87823516e94c23fb5"
+    },
+    {
+      "file": "rus_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2839,
+      "name": "rus_Dictionary_Name",
+      "binary": false,
+      "sha1": "03c10708f0f42a645a78afcf61c8a59d9e3792a9"
+    },
+    {
+      "file": "tw_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2840,
+      "name": "tw_Dictionary_Name",
+      "binary": false,
+      "sha1": "ca71e0fa97e8ec0ea42d304257dffee0affb92b3"
+    },
+    {
+      "file": "pt_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2841,
+      "name": "pt_Dictionary_Explain",
+      "binary": false,
+      "sha1": "cb4896383e029c5b2c3aa562af03cdf2f15ce1e3"
+    },
+    {
+      "file": "cn_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2842,
+      "name": "cn_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "0c9c540512ccf021aef7f7fa66806f7a598bd383"
+    },
+    {
+      "file": "kr_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2843,
+      "name": "kr_Dictionary_Explain",
+      "binary": false,
+      "sha1": "b97fa90b957b082e65228d37dd2396382e9c9b8c"
+    },
+    {
+      "file": "spa_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2844,
+      "name": "spa_Dictionary_Ability",
+      "binary": false,
+      "sha1": "5fd448eff93a1e9d4eade7c78bc98f2e2335eb90"
+    },
+    {
+      "file": "pt_Dictionary_Synergy.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2845,
+      "name": "pt_Dictionary_Synergy",
+      "binary": false,
+      "sha1": "2c797dcb9393e93c023192d8bc676a1ed09a505a"
+    },
+    {
+      "file": "eng_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2846,
+      "name": "eng_Dictionary_Ability",
+      "binary": false,
+      "sha1": "f586aa92ef15561f4ee270b83a13e1c203075504"
+    },
+    {
+      "file": "jp_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2847,
+      "name": "jp_Dictionary_Class",
+      "binary": false,
+      "sha1": "306fcb4e0abdfe09148be4b520727be1a56d01ac"
+    },
+    {
+      "file": "kr_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2848,
+      "name": "kr_Dictionary_Name",
+      "binary": false,
+      "sha1": "e87aade284fc9723aed6b9f1031eb1fe4bc42047"
+    },
+    {
+      "file": "eng_Dictionary_Explain.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2849,
+      "name": "eng_Dictionary_Explain",
+      "binary": false,
+      "sha1": "53c766edbdb47e9b46a139dbeff49fb2f630ca54"
+    },
+    {
+      "file": "cn_Dictionary_Name.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2850,
+      "name": "cn_Dictionary_Name",
+      "binary": false,
+      "sha1": "deda3c4137e4116e8c1be8f7f1f037ea32b845e7"
+    },
+    {
+      "file": "de_Dictionary_Class.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2851,
+      "name": "de_Dictionary_Class",
+      "binary": false,
+      "sha1": "3b4e635b91e1456a6804aa6a24a4d1287a951a79"
+    },
+    {
+      "file": "de_Dictionary_Ability.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2852,
+      "name": "de_Dictionary_Ability",
+      "binary": false,
+      "sha1": "3f4c14e598a354d5b6cba6f8fe41e2a8cd0cd6ca"
+    },
+    {
+      "file": "jp_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2853,
+      "name": "jp_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "7ea4ad329997ca4184fe383223c767d0e0d13f69"
+    },
+    {
+      "file": "eng_Dictionary_MagicCom.txt",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2854,
+      "name": "eng_Dictionary_MagicCom",
+      "binary": false,
+      "sha1": "f610795745ed49a9a0f8a0f826315078a0007e87"
+    },
+    {
+      "file": "BillingMode.json",
+      "entry": "assets/bin/Data/data.unity3d",
+      "path_id": 2855,
+      "name": "BillingMode",
+      "binary": false,
+      "sha1": "cc56d8857be25e42284d1303d091571e185cf0af"
+    }
+  ]
+}

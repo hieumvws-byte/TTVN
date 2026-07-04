@@ -1,0 +1,120 @@
+﻿ID001,구역 이름,구역 효과,구역 골드 보상 배율,구역 보석 보상 일반,구역 보석 보상 무한01,구역 보석 보상 무한02,구역 보석 보상 무한03,구역 보석 보상 무한04,구역 보석 보상 무한05,구역 보석 보상 합계,구역 설명줄01,구역 설명줄02,구역 설명줄03,ID002,일지 이름,일지 조건 이름,일지 구역ID,일지 조건 설명,일지 조건 유형,일지 조건 값A,일지 조건 값B,일지 해금 구역,일지 보상 보석 개수,일지 설명줄01,일지 설명줄02,일지 설명줄03,일지 설명줄04,일지 설명줄05,일지 설명줄06,일지 설명줄07,일지 설명줄08,일지 설명줄09,일지 설명줄10,UI001,일지개수
+0,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,0,Explain,Explain,0 ,Explain,Explain,0 ,0 ,0 ,0 ,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,Explain,기본,14
+1,Matrizes,`,120 ,15 ,8 ,8 ,8 ,7 ,3 ,34 ,"Esta instalação está localizada no centro abandonado da cidade, fora do laboratório.",Foi projetada para analisar como os Espíritos sofrem mutações dependendo do ambiente.,`,1,Guerra dos Invocadores,Matrizes,1 ,`,`,720 ,0 ,2 ,200 ,Este mundo não conhece escassez.,Guerras eram iniciadas puramente por diversão.,Mas apenas Espíritos e Golems lutavam nessas guerras.,`,`,`,`,`,`,`,`,`
+2,Laboratório,`,150 ,18 ,10 ,10 ,10 ,9 ,4 ,43 ,A pesquisa conduzida neste laboratório foca na manipulação de como os Espíritos sofrem mutações,para compreender os padrões comportamentais do vírus.,`,2,Homúnculo,Laboratório,2 ,`,`,720 ,0 ,3 ,300 ,Uma guerra sem humanos não era divertida de assistir.,"Assim, os humanos fizeram brinquedos à sua imagem",e eles se tornaram soldados de brinquedo conforme projetados.,`,`,`,`,`,`,`,`,`
+3,Sistema de Esgoto,`,180 ,21 ,12 ,11 ,10 ,9 ,5 ,47 ,Todos os resíduos do laboratório são incinerados,e os resíduos incinerados são processados quimicamente e despejados na rede de esgoto.,`,3,Poluição,Sistema de Esgoto,3 ,`,`,900 ,0 ,4 ,300 ,"As guerras travadas pelos homúnculos eram grandes, dramáticas e, acima de tudo, divertidas de assistir.",Mas as inúmeras magias destrutivas usadas durante essas guerras,poluíram as próprias características da mana espalhadas por todo o mundo.,`,`,`,`,`,`,`,`,`
+4,Arredores da Cidade,`,210 ,23 ,13 ,12 ,11 ,10 ,5 ,51 ,Essas estradas nos arredores da cidade,tiveram muito tráfego de carga no passado.,`,4,Enxame,Arredores da Cidade,4 ,`,`,900 ,0 ,5 ,300 ,Seres não identificados começaram a aparecer por todo o mundo.,"Eles comiam tudo e qualquer coisa viva,","e voltaram em maior número, mesmo depois de eliminados.",`,"Esses seres foram chamados de ""Enxame"" devido a essa característica.",`,`,`,`,`,`,`
+5,Arboreto,`,240 ,24 ,13 ,12 ,11 ,10 ,6 ,52 ,Esta floresta circunda todo o complexo laboratorial.,Os pesquisadores podem relaxar neste ambiente calmo.,`,5,Pesquisa,Arboreto,5 ,`,`,900 ,0 ,6 ,300 ,"O Enxame que seguia se multiplicando era certamente considerado perigoso,",mas os estudiosos ainda consideravam uma fonte de entretenimento.,`,`,`,`,`,`,`,`,`,`
+6,Academia,Nível inicial +10,270 ,25 ,14 ,13 ,12 ,11 ,6 ,56 ,Esta instalação foi criada para promover a pesquisa acadêmica,em várias disciplinas e escolas de magia.,`,6,Classificação,Academia,6 ,`,`,900 ,0 ,7 ,300 ,Foi confirmado que o Enxame se originou de mana.,"Embora tenham sido classificados como Espíritos por terem sido criados a partir de mana,",a tendência de se replicar e crescer dependendo de estímulos externos,não era diferente da de um vírus.,`,`,`,`,`,`,`,`
+7,Usina Elétrica,`,300 ,27 ,15 ,14 ,13 ,12 ,7 ,61 ,"O experimento exigia cada vez mais eletricidade à medida que se expandia,",e uma grande usina elétrica foi construída perto do laboratório.,`,7,Orbe de Mana,Usina Elétrica,7 ,`,`,1080 ,0 ,8 ,400 ,Os produtos feitos a partir da reciclagem de extratos de Enxame,revelaram-se uma fonte eficaz de mana.,`,`,`,`,`,`,`,`,`,`
+8,Sala Limpa,`,330 ,29 ,16 ,15 ,14 ,13 ,7 ,65 ,Os vírus analisados são produzidos em massa aqui,e a área está sob vigilância rigorosa.,`,8,Cambion,Sala Limpa,8 ,`,`,1080 ,0 ,9 ,400 ,Descobriu-se que o Enxame só cresce com estímulos externos.,"Se julgar que a resposta do alvo é perigosa para si mesmo,",o Enxame assume uma forma mais perigosa.,`,`,`,`,`,`,`,`,`
+9,Reservatório,`,360 ,30 ,17 ,16 ,15 ,14 ,8 ,70 ,"Esta instalação foi construída sobre um lago para manter um abastecimento constante de água,","e acabou sendo conectada também à cidade, após mais desenvolvimento.",`,9,Inimigo,Reservatório,9 ,`,`,1080 ,0 ,10 ,400 ,Era necessário um inimigo adequado para levar o Enxame ao seu potencial máximo.,"Como os criminosos normais não eram fortes o suficiente para serem seus adversários,",eles logo foram substituídos por homúnculos.,`,`,`,`,`,`,`,`,`
+10,Floresta,`,380 ,31 ,17 ,16 ,15 ,14 ,8 ,70 ,A maioria das instalações do laboratório foi construída em uma montanha,que estava isolada do mundo exterior.,`,10,Matrizes,Floresta,10 ,`,`,1080 ,0 ,11 ,400 ,"À medida que o experimento se expandia cada vez mais,","para identificar e compreender como o Enxame se multiplica,",os vilarejos próximos ao laboratório precisariam ser abandonados.,`,`,`,`,`,`,`,`,`
+11,Cidade,`,400 ,32 ,18 ,17 ,16 ,15 ,8 ,74 ,A cidade prosperou graças a uma chegada de produtos nunca antes vista.,`,`,11,Realização,Cidade,11 ,`,`,1080 ,0 ,12 ,400 ,"Aparentemente, não havia limite para o crescimento do Enxame.","Embora não estivesse claro se era por instinto ou intencional,",o Enxame sempre agia como se estivesse sob controle.,`,`,`,`,`,`,`,`,`
+12,Ecossistema Artificial,`,500 ,0 ,10 ,12 ,15 ,18 ,20 ,75 ,Um lugar onde a experiência e o conhecimento são realizados,`,`,12,Persistência,Limite,12 ,`,`,1800 ,0 ,13 ,500 ,A tentativa de estabilizar a situação foi bem-sucedida.,"Mas como ainda eram necessários,",não eliminamos tudo.,`,`,`,`,`,`,`,`,`
+13,Profundidade,`,400 ,0 ,12 ,0 ,0 ,0 ,0 ,0 ,As experiências devem continuar.,`,`,13,Sucesso da pesquisa,Profundidade,13 ,`,`,1500 ,0 ,14 ,500 ,Eles naturalmente presumiram que os produtos da evolução dos enxames descobertos através de suas pesquisas eram para seu próprio benefício.,`,"No entanto, eles não evoluíram para matar o inimigo à sua frente.","Em vez disso, eles queriam transformar-se em nutrientes eficientes e, através disso, estavam cultivando e analisando homúnculos.",Assim como estudamos enxames...,`,`,`,`,E os resultados foram um duro teste para a humanidade.,`,`
+14,Terra,`,400 ,0 ,20 ,0 ,0 ,0 ,0 ,0 ,Uma nova era está prestes a começar.,`,`,14,A Era Dourada,Terra,14 ,`,`,1500 ,0 ,15 ,500 ,Após séculos de guerra contra o Rei Demônio @ acreditávamos que [Utopia] finalmente chegaria.,`,"No entanto, as tragédias do passado, que envolviam vida e morte, se tornaram mero entretenimento @ e o mundo mergulhou na decadência pelo prazer.",`,Do caos nasceram as terríveis criaturas: [Homúnculo] e [Enxame].,Mas os experimentos não pararam. @ Descobrimos novas possibilidades nesses monstros...,`,【A esperança de que o medo pudesse renascer.】,`,`,`,`
+15,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,15,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+16,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,16,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+17,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,17,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+18,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,18,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+19,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,19,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+20,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,20,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+21,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,21,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+22,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,22,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+23,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,23,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+24,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,24,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+25,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,25,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+26,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,26,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+27,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,27,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+28,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,28,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+29,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,29,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+30,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,30,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+31,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,31,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+32,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,32,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+33,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,33,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+34,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,34,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+35,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,35,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+36,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,36,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+37,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,37,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+38,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,38,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+39,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,39,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+40,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,40,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+41,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,41,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+42,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,42,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+43,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,43,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+44,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,44,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+45,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,45,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+46,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,46,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+47,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,47,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+48,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,48,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+49,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,49,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+50,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,50,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+51,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,51,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+52,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,52,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+53,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,53,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+54,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,54,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+55,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,55,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+56,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,56,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+57,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,57,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+58,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,58,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+59,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,59,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+60,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,60,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+61,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,61,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+62,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,62,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+63,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,63,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+64,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,64,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+65,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,65,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+66,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,66,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+67,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,67,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+68,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,68,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+69,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,69,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+70,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,70,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+71,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,71,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+72,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,72,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+73,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,73,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+74,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,74,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+75,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,75,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+76,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,76,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+77,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,77,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+78,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,78,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+79,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,79,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+80,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,80,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+81,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,81,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+82,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,82,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+83,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,83,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+84,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,84,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+85,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,85,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+86,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,86,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+87,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,87,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+88,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,88,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+89,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,89,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+90,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,90,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+91,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,91,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+92,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,92,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+93,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,93,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+94,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,94,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+95,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,95,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+96,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,96,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+97,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,97,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+98,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,98,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+99,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,99,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+100,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,100,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+101,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,101,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+102,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,102,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+103,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,103,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+104,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,104,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+105,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,105,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+106,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,106,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+107,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,107,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+108,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,108,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+109,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,109,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+110,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,110,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+111,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,111,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+112,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,112,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+113,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,113,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+114,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,114,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+115,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,115,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+116,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,116,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+117,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,117,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
+118,`,`,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,`,`,`,118,`,`,0 ,`,`,0 ,0 ,0 ,0 ,`,`,`,`,`,`,`,`,`,`,`,`
