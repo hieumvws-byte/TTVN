@@ -1,0 +1,28 @@
+name: Đăng bản việt hóa lên Releases
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ghép các phần thành file .apks
+        run: |
+          cat release-parts/MagicSurvival-VN.apks.part-* > MagicSurvival-VN.apks
+          echo "3cc24914888dc854ba570b11a6555f10a5ff43dfe549207205bfe8382b645f83  MagicSurvival-VN.apks" | sha256sum -c -
+
+      - name: Đăng lên Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create vn-menu-0.99 \
+            --title "Magic Survival 0.99 - Việt hóa menu" \
+            --notes "Bản việt hóa menu (eng_Dictionary_Name). Cài bằng app SAI - xem tools/README.md" \
+            MagicSurvival-VN.apks \
+            || gh release upload vn-menu-0.99 MagicSurvival-VN.apks --clobber
