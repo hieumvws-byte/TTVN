@@ -48,6 +48,21 @@ def iter_candidates(zf: zipfile.ZipFile) -> Iterator[str]:
             yield name
 
 
+def _alignment_extra(data_offset: int, align: int = 4) -> bytes:
+    """Tạo extra field đệm sao cho dữ liệu entry bắt đầu tại biên ``align``
+    byte (tương đương zipalign). Dùng header ID 0xD935 (Android alignment)
+    khi đủ chỗ, ID 0x0000 khi phần đệm quá ngắn."""
+    pad = (align - data_offset % align) % align
+    if pad == 0:
+        return b""
+    total = pad if pad >= 4 else pad + 4  # extra record tối thiểu 4 byte
+    size = total - 4
+    if size >= 2:
+        head = (0xD935).to_bytes(2, "little") + size.to_bytes(2, "little")
+        return head + align.to_bytes(2, "little") + b"\x00" * (size - 2)
+    return b"\x00\x00" + size.to_bytes(2, "little") + b"\x00" * size
+
+
 def repack(
     src_apk: Path,
     dst_apk: Path,
@@ -55,11 +70,11 @@ def repack(
 ) -> Tuple[int, int]:
     """Tạo APK mới từ ``src_apk``, thay nội dung các entry trong
     ``patched_entries`` (tên entry -> bytes mới), giữ nguyên mọi thứ khác.
+    Entry không nén (STORED) được căn dữ liệu về biên 4 byte như zipalign.
 
     Trả về (số entry đã thay, tổng số entry).
 
-    Lưu ý: APK sau khi sửa sẽ mất chữ ký -> cần zipalign + ký lại
-    (xem ttvn/signer.py).
+    Lưu ý: APK sau khi sửa sẽ mất chữ ký -> cần ký lại (xem ttvn/signer.py).
     """
     src_apk = Path(src_apk)
     dst_apk = Path(dst_apk)
@@ -88,6 +103,12 @@ def repack(
             new_info.compress_type = info.compress_type
             new_info.external_attr = info.external_attr
             new_info.create_system = info.create_system
+            if info.compress_type == zipfile.ZIP_STORED:
+                header_offset = zout.fp.tell()
+                data_offset = header_offset + 30 + len(
+                    new_info.filename.encode("utf-8")
+                )
+                new_info.extra = _alignment_extra(data_offset)
             zout.writestr(new_info, data)
 
     shutil.move(str(tmp), str(dst_apk))
