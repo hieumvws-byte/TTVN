@@ -12,10 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Ghép các phần thành file .apks
+      - name: Ghép các phần thành file .apk
         run: |
-          cat release-parts/MagicSurvival-VN-full.apks.part-* > MagicSurvival-VN-full.apks
-          echo "592c90b6ad93f1b0c6f87ee111459555da4ad01d0f724945155e7155645a121a  MagicSurvival-VN-full.apks" | sha256sum -c -
+          cat release-parts/MagicSurvival-VN.apk.part-* > MagicSurvival-VN.apk
+          echo "7eff435b5c36008716e11de0b969df81efe4faa3b1892a424384f1a2a42442f3  MagicSurvival-VN.apk" | sha256sum -c -
 
       - name: Đăng lên Releases
         env:
@@ -23,6 +23,6 @@ jobs:
         run: |
           gh release create vn-full-0.99 \
             --title "Magic Survival 0.99 - Việt hóa hoàn chỉnh" \
-            --notes "Bản việt hóa đầy đủ 6 file dictionary (menu, phép thuật, trường phái, cổ vật, cộng hưởng, nhật ký - 1.735 chuỗi). Cài bằng app SAI - xem tools/README.md" \
-            MagicSurvival-VN-full.apks \
-            || gh release upload vn-full-0.99 MagicSurvival-VN-full.apks --clobber
+            --notes "Bản việt hóa đầy đủ. File .apk cài trực tiếp không cần SAI." \
+            MagicSurvival-VN.apk \
+            || gh release upload vn-full-0.99 MagicSurvival-VN.apk --clobber
