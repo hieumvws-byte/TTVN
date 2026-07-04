@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# thư mục làm việc / file game
+work/
+*.apk
+*.obb
+*.keystore
+translate.csv
+dich.csv
