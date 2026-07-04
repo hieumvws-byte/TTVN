@@ -14,15 +14,15 @@ jobs:
 
       - name: Ghép các phần thành file .apks
         run: |
-          cat release-parts/MagicSurvival-VN.apks.part-* > MagicSurvival-VN.apks
-          echo "3cc24914888dc854ba570b11a6555f10a5ff43dfe549207205bfe8382b645f83  MagicSurvival-VN.apks" | sha256sum -c -
+          cat release-parts/MagicSurvival-VN-full.apks.part-* > MagicSurvival-VN-full.apks
+          echo "592c90b6ad93f1b0c6f87ee111459555da4ad01d0f724945155e7155645a121a  MagicSurvival-VN-full.apks" | sha256sum -c -
 
       - name: Đăng lên Releases
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create vn-menu-0.99 \
-            --title "Magic Survival 0.99 - Việt hóa menu" \
-            --notes "Bản việt hóa menu (eng_Dictionary_Name). Cài bằng app SAI - xem tools/README.md" \
-            MagicSurvival-VN.apks \
-            || gh release upload vn-menu-0.99 MagicSurvival-VN.apks --clobber
+          gh release create vn-full-0.99 \
+            --title "Magic Survival 0.99 - Việt hóa hoàn chỉnh" \
+            --notes "Bản việt hóa đầy đủ 6 file dictionary (menu, phép thuật, trường phái, cổ vật, cộng hưởng, nhật ký - 1.735 chuỗi). Cài bằng app SAI - xem tools/README.md" \
+            MagicSurvival-VN-full.apks \
+            || gh release upload vn-full-0.99 MagicSurvival-VN-full.apks --clobber
